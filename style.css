@@ -1,0 +1,20 @@
+body {
+  background-color: #d8c292;
+  color:#5b5b5b;
+}
+hr {
+  border-color: #0a043c;
+  border-style: dashed none none;
+  border-width: 8px;
+  width: 50%;
+}
+
+h1 {
+  color: #845ec2;
+  font-weight: bolder;
+}
+
+h3 {
+  font-style: oblique;
+  color: #845ec2;
+}
